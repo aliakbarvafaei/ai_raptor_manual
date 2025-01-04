@@ -1,0 +1,14 @@
+matplotlib
+bs4
+langchain_community
+pandas
+langchain
+umap-learn
+scikit-learn
+tiktoken
+langchain-openai
+langchainhub
+chromadb
+sentence-transformers
+ollama
+# llama-cpp-python
